@@ -1,0 +1,9 @@
+Site,City,Country,Users,LocalITStaff,CommsRoom,TimeZone,SiteLead
+MAD,Madrid,Spain,480,2,Yes,Europe/Madrid,Carlos Ibáñez
+PAR,Paris,France,620,3,Yes,Europe/Paris,Claire Dubois
+AMS,Amsterdam,Netherlands,410,2,Yes,Europe/Amsterdam,Daan de Vries
+CPH,Copenhagen,Denmark,190,0,No,Europe/Copenhagen,"Mette Larsen (remote, from Amsterdam)"
+FRA,Frankfurt,Germany,350,2,Yes,Europe/Berlin,Lukas Becker
+GVA,Geneva,Switzerland,210,1,Yes,Europe/Zurich,Nicolas Favre
+MIL,Milan,Italy,180,1,Yes,Europe/Rome,Giulia Conti
+LIS,Lisbon,Portugal,60,0,No,Europe/Lisbon,"Inês Rocha (remote, from Madrid)"

@@ -1,0 +1,79 @@
+Site,Service,Start,MinutesDown,Planned,Reference,Cause
+AMS,File and print,2026-09-02 08:00,16,No,,file server restart
+LIS,Printing,2026-09-03 10:00,83,No,,print server queue stuck
+PAR,Printing,2026-09-05 17:20,79,No,,print server queue stuck
+CPH,Printing,2026-09-06 13:20,180,Yes,CHG-2245,maintenance window
+AMS,Wi-Fi,2026-09-09 12:20,14,No,,access point reboot
+MAD,Printing,2026-09-09 14:20,120,No,,print server queue stuck
+PAR,WAN primary,2026-09-10 18:40,6,No,,brief loss of the primary circuit
+PAR,Wi-Fi,2026-09-11 16:30,13,No,,access point reboot
+MAD,Meeting rooms,2026-09-11 20:40,79,No,,room controller offline
+FRA,Wi-Fi,2026-09-12 12:10,60,Yes,CHG-2102,maintenance window
+PAR,Wi-Fi,2026-09-12 14:40,24,No,,access point reboot
+MAD,Wi-Fi,2026-09-12 16:00,23,No,,access point reboot
+MIL,File and print,2026-09-12 17:10,60,Yes,CHG-2361,maintenance window
+LIS,Wi-Fi,2026-09-16 08:00,16,No,,access point reboot
+AMS,Wi-Fi,2026-09-16 14:20,11,No,,access point reboot
+LIS,File and print,2026-09-16 19:50,60,Yes,CHG-2255,maintenance window
+LIS,Wi-Fi,2026-09-17 06:50,13,No,,access point reboot
+MAD,Wi-Fi,2026-09-17 14:00,120,Yes,CHG-2280,maintenance window
+MIL,WAN primary,2026-09-17 14:00,11,No,,brief loss of the primary circuit
+MIL,Printing,2026-09-17 20:00,87,No,,print server queue stuck
+MAD,Printing,2026-09-19 13:40,41,No,,print server queue stuck
+MIL,Printing,2026-09-19 14:40,105,No,,print server queue stuck
+CPH,Wi-Fi,2026-09-21 10:20,9,No,,access point reboot
+MIL,Wi-Fi,2026-09-21 15:50,8,No,,access point reboot
+PAR,File and print,2026-09-21 18:30,14,No,,file server restart
+GVA,Printing,2026-09-22 10:00,180,Yes,CHG-2280,maintenance window
+AMS,WAN primary,2026-09-22 11:00,15,No,,brief loss of the primary circuit
+MAD,File and print,2026-09-22 20:20,20,No,,file server restart
+FRA,Printing,2026-09-24 08:50,77,No,,print server queue stuck
+AMS,Wi-Fi,2026-09-25 08:20,180,Yes,CHG-2208,maintenance window
+PAR,Printing,2026-09-26 09:10,39,No,,print server queue stuck
+AMS,Meeting rooms,2026-09-26 16:50,51,No,,room controller offline
+CPH,Printing,2026-09-27 19:00,120,No,,print server queue stuck
+FRA,File and print,2026-09-28 06:20,10,No,,file server restart
+PAR,Wi-Fi,2026-09-29 18:30,180,Yes,CHG-2105,maintenance window
+FRA,Wi-Fi,2026-09-30 20:20,14,No,,access point reboot
+LIS,Wi-Fi,2026-10-04 10:00,24,No,,access point reboot
+FRA,Printing,2026-10-04 10:40,48,No,,print server queue stuck
+LIS,Printing,2026-10-04 12:30,69,No,,print server queue stuck
+FRA,Printing,2026-10-04 18:00,120,Yes,CHG-2253,maintenance window
+MAD,Meeting rooms,2026-10-05 10:20,35,No,,room controller offline
+PAR,Wi-Fi,2026-10-06 10:50,60,Yes,CHG-2203,maintenance window
+FRA,WAN backup,2026-10-06 14:10,290,No,NWT-48213,fibre cut on the backup circuit (provider)
+CPH,WAN primary,2026-10-06 16:10,12,No,,brief loss of the primary circuit
+CPH,Wi-Fi,2026-10-07 19:30,10,No,,access point reboot
+AMS,File and print,2026-10-08 07:40,16,No,,file server restart
+MAD,Wi-Fi,2026-10-08 13:10,15,No,,access point reboot
+LIS,File and print,2026-10-08 18:40,20,No,,file server restart
+CPH,Wi-Fi,2026-10-09 16:40,120,Yes,CHG-2380,maintenance window
+PAR,Meeting rooms,2026-10-10 20:50,43,No,,room controller offline
+MIL,File and print,2026-10-11 10:50,7,No,,file server restart
+MAD,Printing,2026-10-11 18:00,90,Yes,CHG-2318,maintenance window
+MIL,Printing,2026-10-13 11:50,180,Yes,CHG-2347,maintenance window
+GVA,Printing,2026-10-13 19:00,77,No,,print server queue stuck
+MAD,Wi-Fi,2026-10-14 11:20,75,No,,controller failover after a firmware bug
+MAD,Wi-Fi,2026-10-15 09:05,55,No,,controller failover after a firmware bug
+CPH,Printing,2026-10-16 13:50,94,No,,print server queue stuck
+AMS,Wi-Fi,2026-10-17 08:00,21,No,,access point reboot
+MIL,Wi-Fi,2026-10-17 12:10,21,No,,access point reboot
+FRA,WAN primary,2026-10-17 22:00,240,Yes,CHG-2318,planned circuit upgrade
+FRA,Wi-Fi,2026-10-18 19:50,7,No,,access point reboot
+FRA,WAN backup,2026-10-21 09:40,230,No,NWT-48377,provider router fault on the backup circuit
+PAR,Printing,2026-10-21 11:50,32,No,,print server queue stuck
+FRA,Printing,2026-10-24 13:50,59,No,,print server queue stuck
+AMS,File and print,2026-10-24 17:00,60,Yes,CHG-2300,maintenance window
+AMS,Meeting rooms,2026-10-25 08:20,69,No,,room controller offline
+CPH,Meeting rooms,2026-10-25 10:30,31,No,,room controller offline
+AMS,Printing,2026-10-25 12:10,76,No,,print server queue stuck
+MAD,Printing,2026-10-25 12:20,23,No,,print server queue stuck
+AMS,Printing,2026-10-26 14:50,98,No,,print server queue stuck
+GVA,File and print,2026-10-27 08:30,60,Yes,CHG-2251,maintenance window
+LIS,Meeting rooms,2026-10-29 13:40,65,No,,room controller offline
+MAD,Printing,2026-10-29 17:00,76,No,,print server queue stuck
+MIL,Printing,2026-10-29 17:00,65,No,,print server queue stuck
+GVA,Wi-Fi,2026-10-29 17:20,6,No,,access point reboot
+LIS,Wi-Fi,2026-10-29 18:50,90,Yes,CHG-2128,maintenance window
+GVA,Wi-Fi,2026-10-30 06:10,9,No,,access point reboot
+LIS,Wi-Fi,2026-10-30 08:30,14,No,,access point reboot
