@@ -1,0 +1,10 @@
+Site,TestDate,Scope,Result,Reference
+MAD,2025-04-12,Full site failover to Paris,Pass,DR-2025-03
+MAD,2026-04-18,Full site failover to Paris,Pass,DR-2026-02
+PAR,2026-02-07,Full site failover to Madrid,Pass,DR-2026-01
+AMS,2026-05-23,WAN failover and work from home,Pass,DR-2026-04
+CPH,2026-03-14,WAN failover and work from home,Pass,DR-2026-03
+FRA,2026-06-13,WAN failover and work from home,Pass,DR-2026-05
+GVA,2026-01-24,WAN failover and work from home,Pass,DR-2026-00
+MIL,2025-06-14,WAN failover and work from home,Pass,DR-2025-05
+LIS,2025-11-29,Work from home,Pass,DR-2025-09

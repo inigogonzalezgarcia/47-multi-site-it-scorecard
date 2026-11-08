@@ -1,0 +1,17 @@
+Id,Site,Title,Owner,Due,Closed,Status
+PRJ-101,MAD,Replace the meeting room displays on floor 3,Carlos Ibáñez,2026-10-16,,In progress
+PRJ-102,MAD,Second Wi-Fi controller firmware upgrade,Jonas Weber,2026-11-20,,Open
+PRJ-103,PAR,Move the print server to the new cluster,Claire Dubois,2026-09-26,,In progress
+PRJ-104,PAR,Clean up the requests queue older than 60 days,Marta Vidal,2026-10-09,,Open
+PRJ-105,PAR,Badge reader integration for the new floor,Claire Dubois,2026-10-23,,Blocked
+PRJ-106,PAR,UPS battery replacement in the comms room,Claire Dubois,2026-11-27,,Open
+PRJ-107,AMS,Windows 11 25H2 pilot ring for Amsterdam,Sofie Jansen,2026-10-02,2026-10-02,Done
+PRJ-108,AMS,Rack cable management in the comms room,Daan de Vries,2026-12-04,,Open
+PRJ-109,CPH,Hire a local IT engineer,Laura Méndez,2026-12-15,,In progress
+PRJ-110,CPH,Smart lockers for laptop swaps,Mette Larsen,2026-11-30,,Open
+PRJ-111,FRA,Diverse route for the backup circuit (quote from the provider),Jonas Weber,2026-10-30,,Open
+PRJ-112,FRA,Replace the core switch fans,Lukas Becker,2026-10-09,2026-10-08,Done
+PRJ-113,GVA,Meeting room booking panels,Nicolas Favre,2026-11-13,,Open
+PRJ-114,MIL,"Laptop refresh, first batch of 40",Giulia Conti,2026-12-11,,Open
+PRJ-115,MIL,Book the DR test with the business,Paolo Ricci,2026-11-20,,Open
+PRJ-116,LIS,Replace the office router,Jonas Weber,2026-10-16,2026-10-14,Done
